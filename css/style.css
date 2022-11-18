@@ -1,0 +1,10 @@
+
+.menu{
+    display: flex;
+    float: left;
+    
+}
+h1{
+    color: black;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
